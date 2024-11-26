@@ -1,8 +1,9 @@
-## Hola, mi nombre es Darwin, conoce un poco sobre mi.
+<div>## Hola, mi nombre es Darwin, conoce un poco sobre mi.</div>
 
 <div>
-  *Construyendo soluciones innovadoras, un proyecto a la vez*
+  <h3></h3>Construyendo soluciones innovadoras, un proyecto a la vez*</h3>
 </div>
+![Ing civ](http://moodle.chilpancingo.tecnm.mx/course/info.php?id=13)
 
 <!--
 **Darwin-spv/Darwin-spv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
