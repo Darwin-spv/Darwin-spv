@@ -1,11 +1,11 @@
 ## Hola, mi nombre es Darwin, conoce un poco sobre mi.
 
-<h1>Construyendo soluciones innovadoras, un proyecto a la vez</h1>
+<h3>Construyendo soluciones innovadoras, un proyecto a la vez</h3>
 
-- Me gustari aprender a usar Python
-- Me gustaria aprender a usar civil 3d
-- me gustaria poder ejercer en la parte de geotecnia
-- mi correo: dpadillav@unal.edu.co
+- Me gustari aprender a usar Python💬
+- Me gustaria aprender a usar civil 3d🤔
+- me gustaria poder ejercer en la parte de geotecnia🌱
+- mi correo: dpadillav@unal.edu.co🔭
 
   
 <!--
